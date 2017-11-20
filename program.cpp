@@ -1,4 +1,4 @@
-//файл program.cpp
+//файл program.cpp 333
 #include "stdafx.h"
 #include <iostream>
 #include "funcs.h"
