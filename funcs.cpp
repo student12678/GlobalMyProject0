@@ -1,4 +1,4 @@
-//funcs.cpp
+//funcs.cpp 111
 #include "stdafx.h"
 #include "funcs.h"
 #include <cmath>
